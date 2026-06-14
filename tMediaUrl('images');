@@ -1,0 +1,26 @@
+[90m= [39m[34;4mSpatie\MediaLibrary\MediaCollections\Models\Collections\MediaCollection[39;24m {#8158
+    [34mall[39m: [
+      [34;4mSpatie\MediaLibrary\MediaCollections\Models\Media[39;24m {#8168
+        [34mid[39m: [35m1[39m,
+        [34mmodel_type[39m: [32m"[39m[32mApp[39m\\[32mModels[39m\\[32mCategory[39m[32m"[39m,
+        [34mmodel_id[39m: [35m1[39m,
+        [34muuid[39m: [32m"[39m[32m5f309924-31db-4411-9593-d432b9a15324[39m[32m"[39m,
+        [34mcollection_name[39m: [32m"[39m[32mimages[39m[32m"[39m,
+        [34mname[39m: [32m"[39m[32mbedroom[39m[32m"[39m,
+        [34mfile_name[39m: [32m"[39m[32mbedroom.jpg[39m[32m"[39m,
+        [34mmime_type[39m: [32m"[39m[32mimage/jpeg[39m[32m"[39m,
+        [34mdisk[39m: [32m"[39m[32mpublic[39m[32m"[39m,
+        [34mconversions_disk[39m: [32m"[39m[32mpublic[39m[32m"[39m,
+        [34msize[39m: [35m50034[39m,
+        [34mmanipulations[39m: [32m"[39m[32m[][39m[32m"[39m,
+        [34mcustom_properties[39m: [32m"[39m[32m[][39m[32m"[39m,
+        [34mgenerated_conversions[39m: [32m"[39m[32m[][39m[32m"[39m,
+        [34mresponsive_images[39m: [32m"[39m[32m[][39m[32m"[39m,
+        [34morder_column[39m: [35m1[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-06-14 18:34:55[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-06-14 18:34:55[39m[32m"[39m,
+        +[1moriginal_url[22m: [32m"[39m[32mhttp://localhost/storage/1/bedroom.jpg[39m[32m"[39m,
+        +[1mpreview_url[22m: [32m""[39m,
+      },
+    ],
+  }
